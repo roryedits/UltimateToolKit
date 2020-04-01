@@ -1,0 +1,1 @@
+START /MAX cmd.exe /C "mode con cols=200 lines=60 && toolkit\HuntersToolkit.bat"
